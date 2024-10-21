@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/VvH4dVT/cover.jpg",
+      "title": "The Future of AI in Healthcare",
+      "author_name": "Michael Green",
+      "author_img": "https://i.ibb.co.com/LCVZL0S/IMG-0033.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#AI", "#Healthcare", "#Tech", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/VvH4dVT/cover.jpg",
+      "title": "Sustainable Living: A Guide for 2024",
+      "author_name": "Sarah Johnson",
+      "author_img": "https://i.ibb.co.com/LCVZL0S/IMG-0033.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": 10,
+      "hashtags": ["#Sustainability", "#GreenLiving", "#Environment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/VvH4dVT/cover.jpg",
+      "title": "Mastering Python: Tips for Beginners",
+      "author_name": "Dr. Emily Clark",
+      "author_img": "https://i.ibb.co.com/LCVZL0S/IMG-0033.jpg",
+      "posted_date": "2024-09-20",
+      "reading_time": 7,
+      "hashtags": ["#Python", "#Programming", "#Coding", "#Beginners"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/VvH4dVT/cover.jpg",
+      "title": "Exploring the Cosmos: Astronomy in 2024",
+      "author_name": "Dr. Jonathan Reyes",
+      "author_img": "https://i.ibb.co.com/LCVZL0S/IMG-0033.jpg",
+      "posted_date": "2024-09-22",
+      "reading_time": 12,
+      "hashtags": ["#Astronomy", "#Space", "#Science", "#Cosmos"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/VvH4dVT/cover.jpg",
+      "title": "The Rise of Electric Vehicles",
+      "author_name": "Emma Davis",
+      "author_img": "https://i.ibb.co.com/LCVZL0S/IMG-0033.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 9,
+      "hashtags": ["#EV", "#ElectricVehicles", "#GreenTech", "#Innovation"]
+    }
+  ]
+  
